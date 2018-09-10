@@ -1,2 +1,1 @@
-# scripts
-Collect and manage some scripts.
+> Collect and manage some scripts.
