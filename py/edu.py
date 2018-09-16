@@ -1,8 +1,11 @@
-#!/user/bin/env python
 # -*- coding: utf-8 -*-
 
 """
-校园网 EDU 上下线脚本
+Campus EDU online and offline script
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+:copyright: (c) 2018 by rgb-24bit.
+:license: MIT, see LICENSE for more details.
 """
 
 from __future__ import print_function

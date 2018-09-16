@@ -1,8 +1,11 @@
-#!/user/bin/env python3
 # -*- coding: utf-8 -*-
 
 """
-敏感词防过滤脚本
+Sensitive word anti-filtering script
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+:copyright: (c) 2018 by rgb-24bit.
+:license: MIT, see LICENSE for more details.
 """
 
 import sys
