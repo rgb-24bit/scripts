@@ -2,8 +2,8 @@
 
 REM 命令行参数检查
 if "%1" == "" (
-echo Usage: pyenv [version] [drive:]path
-echo Try `pyenv --help' for more information
+echo Usage: wpyenv [version] [drive:]path
+echo Try `wpyenv --help' for more information
 goto over
 
 )  else if "%1" == "--help" (
@@ -17,7 +17,7 @@ echo     version    指定python版本[-2, -3]
 echo     path       指定文件夹名
 echo.
 echo 例如:
-echo     pyenv -2 test
+echo     wpyenv -3 venv
 goto over
 
 )  else if "%2" == "" (
