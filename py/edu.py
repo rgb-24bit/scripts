@@ -84,7 +84,7 @@ def login():
     if 'login_ok' in response_data:
         print('login ok')
     else:
-        print('login faild')
+        print('login faild: ', response_data)
 
 
 def logout():
